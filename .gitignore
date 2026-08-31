@@ -1,0 +1,32 @@
+# A writer's own material never belongs in the repo.
+macguffin/*
+!macguffin/README.md
+
+# Their story is theirs.
+story/TREATMENT.md
+story/MACGUFFIN.md
+story/versions/*
+
+# The wiki is the story. Private by default.
+wiki/characters/*
+wiki/relations/*
+wiki/threads/*
+wiki/places/*
+wiki/themes/*
+wiki/raw-notes.md
+!wiki/index.md
+!wiki/log.md
+!wiki/abandoned.md
+
+# Session records are private.
+sessions/*
+!sessions/README.md
+
+# Voices they made themselves.
+voices/*
+!voices/ROSTER.md
+!voices/editor.md
+!voices/producer.md
+!voices/antagonist.md
+
+.DS_Store
