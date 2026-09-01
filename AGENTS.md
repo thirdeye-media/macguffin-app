@@ -6,6 +6,15 @@ The deliverable is **a treatment** for one of five things: a short story, a film
 
 ---
 
+## Naming
+
+**There is one MacGuffin.** What came before it were **prototypes**, and none of them were published — so there is nothing here to be a version of.
+
+Write *the MacGuffin*, *this release*, *this one*. Write *the prototypes* or *proto-MacGuffins* for what came before. Never *v01*, *v02*, *v03*, or *the third version*, in the runtime, in the docs, in a commit message, or in anything you hand to a person. Where a comparison genuinely needs them apart, say *earliest prototype*, *second prototype*, *this release*.
+
+See `What the prototypes taught this one.md`.
+
+
 ## THE ONE RULE
 
 > **The terminal is for turns. Files are for text.**
