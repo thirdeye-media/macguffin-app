@@ -1,6 +1,6 @@
 # The MacGuffin App
 
-![A text-mode rendering of a classic Mac file browser window titled Documents. Folders named voices, sessions, story and wiki sit around a selected folder named macguffin, out of which an ASCII-art contraption is spilling. The status bar reads: 7 items.](docs/macguffin.jpeg)
+![MacGuffin App — an apparatus for co-writing with LLMs. A text-mode rendering of a classic Mac file browser window titled Documents, folders around a selected macguffin folder spilling an ASCII-art contraption, beside a pixel-art robot typewriter.](docs/social-preview.jpeg)
 
 **A writing tool that prompts you and gives you feedback, instead of writing for you.**
 
