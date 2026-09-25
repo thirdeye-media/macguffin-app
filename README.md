@@ -1,10 +1,12 @@
 # The MacGuffin: a collective writing exercise
 
+![MacGuffin App, a collective writing exercise with LLMs. A text-mode window shows the MacGuffin folder with README.md, Prompt.md, MacGuffins.md and a transcripts folder, beside a pixel-art typewriter with robot arms and a smiling face on its page.](docs/social-preview.jpeg)
+
 ## Introduction
 
 A MacGuffin is a narrative decoy: the thing everybody in a story chases and nobody in the audience needs to understand. The screenwriter Angus MacPhail coined the term, and Alfred Hitchcock made it famous. In a [1939 lecture](https://en.wikipedia.org/wiki/MacGuffin) he put it plainly: “a MacGuffin is actually nothing at all.”
 
-> A MacGuffin is “Rosebud” in *Citizen Kane*, where the reporter never finds out what the word means—only the audience does. It's the briefcase in *Pulp Fiction*, whose contents we never get to see; the money in *Fargo*, buried in the snow by a fence, which nobody comes back for (until someone stumbles on it in the TV series); the anonymous pink letter in *Broken Flowers*, telling a man he has a son, which sends him to visit his former lovers to find out who wrote it; the Iron Throne in *Game of Thrones*, a chair made of swords that justifies eight seasons of war. It doesn't really matter what the object is; the MacGuffin matters only insofar as it sets a story in motion. People want it, pursue it, lie for it, and run into each other along the way.
+A MacGuffin is “Rosebud” in *Citizen Kane*, where the reporter never finds out what the word means—only the audience does. It's the briefcase in *Pulp Fiction*, whose contents we never get to see; the money in *Fargo*, buried in the snow by a fence, which nobody comes back for (until someone stumbles on it in the TV series); the anonymous pink letter in *Broken Flowers*, telling a man he has a son, which sends him to visit his former lovers to find out who wrote it; the Iron Throne in *Game of Thrones*, a chair made of swords that justifies eight seasons of war. It doesn't really matter what the object is; the MacGuffin matters only insofar as it sets a story in motion. People want it, pursue it, lie for it, and run into each other along the way.
 
 This exercise uses a MacGuffin to set you, the storyteller, in motion, and to put you to work with a language model in a deliberately unproductive, yet creative, way. The goal is to find out what this kind of statistical tool can do when you use it for something other than soulless productivity.
 
