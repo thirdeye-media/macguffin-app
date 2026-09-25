@@ -1,4 +1,4 @@
-# The MacGuffin: a collective writing exercise
+# The MacGuffin App: a collective writing exercise
 
 ![MacGuffin App, a collective writing exercise with LLMs. A text-mode window shows the MacGuffin folder with README.md, Prompt.md, MacGuffins.md and a transcripts folder, beside a pixel-art typewriter with robot arms and a smiling face on its page.](docs/social-preview.jpeg)
 
