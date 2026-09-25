@@ -88,7 +88,7 @@ MacGuffin/
 └── transcripts/     one Markdown file per contribution
 ```
 
-If you download the repository, you will also find `AGENTS.md` and `CLAUDE.md`, a `LICENSE`, and a `README.md` inside `transcripts/`: the first two let an agent that opens the folder pick up the prompt on its own, and the last keeps the empty folder in the download.
+If you download the repository, you will also find `AGENTS.md`, a `LICENSE`, and a `README.md` inside `transcripts/`: the first lets an agent that opens the folder pick up the prompt on its own, and the last keeps the empty folder in the download.
 
 Gather again as a group and put your contributions into the `transcripts` folder inside `MacGuffin`. If your text is not fully typed, use a transcriber and read aloud what you wrote, or transcribe the audio recordings, so there is a readable text for each contribution. Name each contribution so you can find its source later. Don't use word processors like Word or LibreOffice. Plain text (.txt) or Markdown (.md) files work best for humans and machines.
 
